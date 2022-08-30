@@ -1,0 +1,1 @@
+ git config --global --add safe.directory '/media/swap/Restaurado/CURSOS/Curso Alura/Git-e-Github/erlonrocha'
